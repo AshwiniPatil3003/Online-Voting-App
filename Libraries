@@ -1,1 +1,6 @@
 JUnit
+Junit is one of the most important Java frameworks for writing unit tests.
+Nobody wants to write the code without producing tests. 
+Everyone includes JUnit in their projects without starting code in Java.
+JUnit library allows developers to write tests for our code. 
+It provides annotations and asserts classes for writing tests in Java.
